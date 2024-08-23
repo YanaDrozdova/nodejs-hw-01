@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "13f315c4-9c81-4b41-8abf-57641a362b64",
+    "name": "Shelia Block-Anderson",
+    "phone": "524-503-8505",
+    "email": "Fay_Botsford@gmail.com",
+    "job": "International Functionality Analyst"
+  },
+  {
+    "id": "022a12a6-f673-4312-9388-d01ad1894ee9",
+    "name": "Gene Gleason",
+    "phone": "1-993-646-3483 x50290",
+    "email": "Porter13@yahoo.com",
+    "job": "Customer Intranet Strategist"
+  },
+  {
+    "id": "8d7d29fa-34fe-4bbd-a42e-e03b319cea95",
+    "name": "Mae Hane",
+    "phone": "1-733-968-5093 x069",
+    "email": "Myra.Turcotte@yahoo.com",
+    "job": "Senior Response Agent"
+  },
+  {
+    "id": "7a60ed86-f36a-47e5-850e-73c6289fb7f6",
+    "name": "Mrs. Connie Dare",
+    "phone": "1-574-602-0110",
+    "email": "Amara.Doyle@hotmail.com",
+    "job": "Human Intranet Engineer"
+  }
+]

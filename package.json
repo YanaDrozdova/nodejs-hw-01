@@ -6,11 +6,12 @@
   "main": "index.js",
   "scripts": {
     "generate": "node src/scripts/generateContacts.js",
-    "get-all": "node src/scripts/getAllContacts",
+    "get-all": "node src/scripts/getAllContacts.js",
     "add-one": "node src/scripts/addOneContact.js",
     "count": "node src/scripts/countContacts.js",
     "remove-last": "node src/scripts/removeLastContact.js",
-    "remove-all": "node src/scripts/removeAllContacts.js"
+    "remove-all": "node src/scripts/removeAllContacts.js",
+    "log-all": "node src/scripts/logAllContacts"
   },
   "keywords": [],
   "author": "",
